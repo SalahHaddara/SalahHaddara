@@ -1,6 +1,8 @@
+<img src="https://camo.githubusercontent.com/23d07666b20d2c01f1ead7b010ddcf38d4d405d05ea78eb2654370ec116c3db2/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f66392f35372f36662f66393537366663613966633865663739393736613164363332376262653961652e676966" width="100%">
+
 # 💫 About Me:
 💡 Passionate about full-stack development.<br>⚡ Fun fact: I enjoy blending functionality with design to make impactful digital experiences!<br>👨‍💻 Always eager to learn and work on new projects to expand my skills.<br>🌱 Current Focus: Exploring new technologies and frameworks to stay up-to-date.<br>📚 Interests: Web and mobile app development, AI integration, and user experience design.
-<img src="https://camo.githubusercontent.com/23d07666b20d2c01f1ead7b010ddcf38d4d405d05ea78eb2654370ec116c3db2/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f66392f35372f36662f66393537366663613966633865663739393736613164363332376262653961652e676966" width="100%">
+
 
 
 ## 🌐 Socials:
